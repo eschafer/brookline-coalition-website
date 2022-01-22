@@ -1,8 +1,6 @@
 <script>
 	import { onDestroy, onMount } from 'svelte';
 	import { page } from '$app/stores';
-	import { t } from 'svelte-intl-precompile';
-	import { locale } from 'svelte-intl-precompile';
 
 	export let title;
   export let logo;
@@ -83,7 +81,7 @@
                 <a
                   href={link.href}
                   class="usa-nav__link"
-                  class:usa-current={$page.path === `${$locale === 'en' ? link.href : `/${$locale}/${link.href}`}`}
+                  class:usa-current={$page.url.pathname === link.href}
                 >
                   <span>{link.label}</span>
                 </a>

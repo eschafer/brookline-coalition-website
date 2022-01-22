@@ -1,16 +1,7 @@
 <script>
 	import { page } from '$app/stores';
-  import { addMessages, init, t } from 'svelte-intl-precompile';
-	import en from '$locales/en.js';
   import Header from '$lib/uswds/Header.svelte';
   import Footer from '$lib/uswds/Footer.svelte';
-
-	addMessages('en', en);
-  
-	init({
-		initialLocale: 'en',
-		fallbackLocale: 'en'
-	});
 
   let data = {
     header: {
@@ -70,10 +61,10 @@
 </script>
 
 <svelte:head>
-	<link rel="alternate" href={`https://www.example.org${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
-	<link rel="alternate" href={`https://www.example.org/es${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
-	<link rel="alternate" href={`https://www.example.org/zh${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
-	<link rel="alternate" href={`https://www.example.org${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />
+	<link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
+	<link rel="alternate" href={`https://www.example.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
+	<link rel="alternate" href={`https://www.example.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
+	<link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />
 </svelte:head>
 
 <div class="wrapper">
@@ -81,16 +72,16 @@
   <nav aria-label="Skip Link and Language Selector" class="controls">
     <ul>
       <li>
-        <a class="usa-skipnav" href="#main-content">{$t('global.skip_link')}</a>
+        <a class="usa-skipnav" href="#main-content">Skip to main content</a>
       </li>
       <li>
-        <a href={`http://${$page.host}${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`}>English</a>
+        <a href={`http://${$page.host}${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`}>English</a>
       </li>
       <li>
-        <a href={`http://${$page.host}/es${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`}>Español</a>
+        <a href={`http://${$page.host}/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`}>Español</a>
       </li>
       <li>
-        <a href={`http://${$page.host}/zh${$page.path.replace(/^\/(es|zh)($|\/)/, '/')}`}>中文</a>
+        <a href={`http://${$page.host}/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`}>中文</a>
       </li>
     </ul>
   </nav>
