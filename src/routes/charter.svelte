@@ -1,3 +1,7 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
 <div class="usa-section grid-container usa-prose">
   <h1>Charter</h1>
   <p>This coalition of neighbors and community organizers is committed to electing progressives to all positions in Town government to achieve the <b>boldly progressive</b> changes Brookline wants and needs. This here is the living document of our charter.</p>

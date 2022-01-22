@@ -1,3 +1,7 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
 <h1 class="usa-sr-only">Brookline Equity Coalition</h1>
 
 <section class="grid-container usa-section">

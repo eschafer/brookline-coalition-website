@@ -1,3 +1,7 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
 <div class="grid-container usa-prose">
   <h1>Endorsements for <time datetime="2022">2022</time></h1>
 
