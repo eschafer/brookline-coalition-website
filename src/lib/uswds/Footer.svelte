@@ -53,7 +53,7 @@
         <div class="grid-col-auto">
           <img
             class="usa-footer__logo-img"
-            src="/assets/img/logo-img.png"
+            src="/img/logo-img.png"
             alt=""
           />
         </div>
@@ -75,7 +75,7 @@
         <a href="javascript:void(0);" class="usa-identifier__logo">
           <img
             class="usa-identifier__logo-img"
-            src="/assets/img/circle-gray-20.svg"
+            src="/img/circle-gray-20.svg"
             alt="&lt;Parent agency&gt; logo"
             role="img"
           />

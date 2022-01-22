@@ -54,7 +54,7 @@
 
       <!-- small screen close button -->
       <button class="usa-nav__close">
-        <img src="/assets/img/usa-icons/close.svg" role="img" alt="Close" />
+        <img src="/img/usa-icons/close.svg" role="img" alt="Close" />
       </button>
 
       {#if links}
