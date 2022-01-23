@@ -2,7 +2,7 @@
 	export const prerender = true;
 </script>
 
-<div class="grid-container usa-prose">
+<section class="usa-section grid-container usa-prose">
   <h1>Endorsements for <time datetime="2022">2022</time></h1>
 
   <h2>State Representative</h2>
@@ -30,7 +30,7 @@
     <h3>Precinct 16</h3>
     <h3>Precinct 17</h3>
   </div>
-</div>
+</section>
 
 <style>
   .precincts {

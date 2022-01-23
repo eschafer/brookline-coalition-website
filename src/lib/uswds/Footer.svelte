@@ -23,7 +23,7 @@
           </ul>
         </nav>
       </div>
-      <div class="mobile-lg:grid-col-4">
+      <!--<div class="mobile-lg:grid-col-4">
         <address class="usa-footer__address">
           <div class="grid-row grid-gap">
             <div
@@ -44,10 +44,10 @@
             </div>
           </div>
         </address>
-      </div>
+      </div>-->
     </div>
   </div>
-  <div class="usa-footer__secondary-section">
+  <!--<div class="usa-footer__secondary-section">
     <div class="grid-container">
       <div class="usa-footer__logo grid-row grid-gap-2">
         <div class="grid-col-auto">
@@ -62,7 +62,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 </footer>
 
 <div class="usa-identifier">
@@ -72,22 +72,22 @@
   >
     <div class="usa-identifier__container">
       <div class="usa-identifier__logos">
-        <a href="javascript:void(0);" class="usa-identifier__logo">
+        <a href="/" class="usa-identifier__logo">
           <img
             class="usa-identifier__logo-img"
-            src="/img/circle-gray-20.svg"
+            src="/img/coalition/logo-white.svg"
             alt="&lt;Parent agency&gt; logo"
             role="img"
           />
         </a>
       </div>
-      <div class="usa-identifier__identity" aria-label="Agency description">
+      <!--<div class="usa-identifier__identity" aria-label="Agency description">
         <p class="usa-identifier__identity-domain">&lt;domain.gov&gt;</p>
         <p class="usa-identifier__identity-disclaimer">
           An official website of the
           <a href="javascript:void(0);">&lt;Parent agency&gt;</a>
         </p>
-      </div>
+      </div>-->
     </div>
   </section>
   <nav
@@ -97,6 +97,13 @@
     <div class="usa-identifier__container">
       <ul class="usa-identifier__required-links-list">
         <li class="usa-identifier__required-links-item">
+          <a
+            href="/accessibility"
+            class="usa-identifier__required-link usa-link"
+            >Accessibility</a
+          >
+        </li>
+        <!--<li class="usa-identifier__required-links-item">
           <a href="javascript:void(0);" class="usa-identifier__required-link"
             >About &lt;Parent shortname&gt;</a
           >
@@ -140,7 +147,7 @@
             class="usa-identifier__required-link usa-link"
             >Privacy policy</a
           >
-        </li>
+        </li>-->
       </ul>
     </div>
   </nav>
@@ -155,4 +162,12 @@
       <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
     </div>
   </section>-->
+  <section
+    class="usa-identifier__section usa-identifier__section--usagov"
+  >
+    <div class="usa-identifier__container">
+    <small>We live on the stolen, unceded land of the Massachusett people, whose traditions, language and stewardship continue today through their lineal descendants, the <a href="http://massachusetttribe.org/">Massachusett Tribe at Ponkapoag</a>.</small>
+
+    </div>
+  </section>
 </div>
