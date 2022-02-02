@@ -2,6 +2,23 @@
 	export const prerender = true;
 </script>
 
+<script>
+  import { onMount } from 'svelte';
+
+	onMount(async () => {
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+  }
+
+  });
+</script>
+
 <h1 class="usa-sr-only">Brookline Equity Coalition</h1>
 
 <section class="grid-container usa-section">

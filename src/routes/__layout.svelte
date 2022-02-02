@@ -65,6 +65,7 @@
 </script>
 
 <svelte:head>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	<link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
 	<link rel="alternate" href={`https://www.example.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
 	<link rel="alternate" href={`https://www.example.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
