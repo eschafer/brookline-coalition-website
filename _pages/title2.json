@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "title2",
+    "body": "body2",
+    "slug": "slug2"
+  },
+  "es": {
+    "title": "title2 es",
+    "body": "body2 es",
+    "slug": "slug2 es"
+  },
+  "zh": {
+    "title": "title2 zh",
+    "body": "body2 zh",
+    "slug": "slug2 zh"
+  }
+}
