@@ -27,7 +27,7 @@ site_url: https://www.brooklineequitycoalition.org/
 logo_url: https://www.brooklineequitycoalition.org/img/coalition/logo.svg
 
 i18n:
-  structure: multiple_folders
+  structure: single_file
   locales: [en, es, zh]
 
 collections:
