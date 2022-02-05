@@ -10,7 +10,66 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
+  <script>
+    window.CMS_MANUAL_INIT = true;
+  </script>
+
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+  <script>
+    const { CMS, initCMS: init } = window;
+    
+    init({
+      config: {
+        load_config_file: false,
+        backend: {
+          name: "git-gateway",
+          branch: "main",
+        },
+        publish_mode: "editorial_workflow",
+        media_folder: "images/uploads",
+        site_url: "https://www.brooklineequitycoalition.org/",
+        logo_url: "https://www.brooklineequitycoalition.org/img/coalition/logo.svg",
+        i18n: {
+          structure: "multiple_folders",
+          locales: [ "en", "es", "zh" ],
+        },
+        collections: [
+          {
+            name: "pages",
+            label: "Pages",
+            label_singular: "Page",
+            description: "Here's a description",
+            folder: "_pages",
+            create: true,
+            extension: "json",
+            i18n: true,
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                hint: "hint",
+                widget: "string",
+                i18n: true
+              },
+              {
+                label: "Body",
+                name: "body",
+                widget: "markdown",
+                i18n: true
+              },
+              {
+                label: "Slug",
+                name: "slug",
+                widget: "string",
+                i18n: true
+              },
+            ],
+          },
+        ],
+      },
+    });
+  </script>
 </body>
 </html>
