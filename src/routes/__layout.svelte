@@ -1,9 +1,9 @@
 <script context="module">
-	export const prerender = true;
+  export const prerender = true;
 </script>
 
 <script>
-	import { page } from '$app/stores';
+  import { page } from '$app/stores';
   import Header from '$lib/uswds/Header.svelte';
   import Footer from '$lib/uswds/Footer.svelte';
 
@@ -20,16 +20,16 @@
           label: "Home",
         },
         {
-          href: "/about",
-          label: "About",
+          href: "/values",
+          label: "Values",
         },
         {
           href: "/endorsements",
           label: "Endorsements",
         },
         {
-          href: "/voter-guide",
-          label: "Voter Guide",
+          href: "/town-election",
+          label: "May 3rd Election",
         },
         {
           href: "/get-involved",
@@ -44,16 +44,16 @@
           label: "Home",
         },
         {
-          href: "/about",
-          label: "About",
+          href: "/values",
+          label: "Values",
         },
         {
           href: "/endorsements",
           label: "Endorsements",
         },
         {
-          href: "/voter-guide",
-          label: "Voter Guide",
+          href: "/town-election",
+          label: "May 3rd Election",
         },
         {
           href: "/get-involved",
@@ -66,10 +66,10 @@
 
 <svelte:head>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	<link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
-	<link rel="alternate" href={`https://www.example.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
-	<link rel="alternate" href={`https://www.example.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
-	<link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />
+  <link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
+  <link rel="alternate" href={`https://www.example.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
+  <link rel="alternate" href={`https://www.example.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
+  <link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />
 </svelte:head>
 
 <div class="wrapper">
@@ -79,7 +79,7 @@
       <li>
         <a class="usa-skipnav" href="#main-content">Skip to main content</a>
       </li>
-      <li>
+      <!--<li>
         <a href={`http://${$page.host}${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`}>English</a>
       </li>
       <li>
@@ -87,7 +87,7 @@
       </li>
       <li>
         <a href={`http://${$page.host}/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`}>中文</a>
-      </li>
+      </li>-->
     </ul>
   </nav>
 
@@ -114,9 +114,9 @@
     grid-template-rows: min-content min-content 1fr;
     background-color: #fcf9f6;
   }
-
   
   .controls > ul {
+    min-height: 44px;
     margin: 0;
     padding: 0 1rem;
     display: flex;
@@ -140,19 +140,5 @@
 
   .controls > ul > li:not(li:first-child) > a {
     color: #fffb;
-  }
-
-
-  .usa-footer__primary-section {
-    background-color: #00656D;
-  }
-
-  .usa-footer__primary-link, .usa-footer__contact-info a {
-    color: #ffffff;
-  }
-
-  .usa-footer__secondary-section {
-    background-color: #00363B;
-    color: #ffffff;
   }
 </style>

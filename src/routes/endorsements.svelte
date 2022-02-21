@@ -1,40 +1,101 @@
 <script context="module">
-	export const prerender = true;
+  export const prerender = true;
 </script>
 
 <section class="usa-section grid-container usa-prose">
   <h1>Endorsements for <time datetime="2022">2022</time></h1>
 
-  <h2>State Representative</h2>
+  <p>The Brookline Equity Coalition's endorsed candidates. Individuals running for Town Meeting will be on the ballot during the <a href="/town-election" class="usa-link">May 3rd municipal election</a>.
+  </p>
 
-  <h2>Select Board</h2>
+  <h2>Precinct 1 Town Meeting Members</h2>
+  <ul>
+    <li>Deborah Brown</li>
+    <li>Dave Walker</li>
+  </ul>
 
-  <h2>Town Meeting</h2>
+  <h2>Precinct 3 Town Meeting Members</h2>
+  <ul>
+    <li>Jeffrey Benson</li>
+    <li>Mariah Nobrega</li>
+  </ul>
 
-  <div class="precincts">
-    <h3>Precinct 1</h3>
-    <h3>Precinct 2</h3>
-    <h3>Precinct 3</h3>
-    <h3>Precinct 4</h3>
-    <h3>Precinct 5</h3>
-    <h3>Precinct 6</h3>
-    <h3>Precinct 7</h3>
-    <h3>Precinct 8</h3>
-    <h3>Precinct 9</h3>
-    <h3>Precinct 10</h3>
-    <h3>Precinct 11</h3>
-    <h3>Precinct 12</h3>
-    <h3>Precinct 13</h3>
-    <h3>Precinct 14</h3>
-    <h3>Precinct 15</h3>
-    <h3>Precinct 16</h3>
-    <h3>Precinct 17</h3>
-  </div>
+  <h2>Precinct 5 Town Meeting Members</h2>
+  <ul>
+    <li>Bonnie Bastien</li>
+  </ul>
+
+  <h2>Precinct 6 Town Meeting Members</h2>
+  <ul>
+    <li>Arthur Wellington Conquest, III</li>
+    <li>Malcolm C. Doldron</li>
+    <li>Ryan D Black</li>
+  </ul>
+
+  <h2>Precinct 7 Town Meeting Members</h2>
+  <ul>
+    <li>Chi Chi Wu</li>
+    <li>Colin Stokes</li>
+  </ul>
+
+  <h2>Precinct 8 Town Meeting Members</h2>
+  <ul>
+    <li>Anne Greenwald</li>
+  </ul>
+
+  <h2>Precinct 9 Town Meeting Members</h2>
+  <ul>
+    <li>Robert D. Lepson</li>
+  </ul>
+
+  <h2>Precinct 10 Town Meeting Members</h2>
+  <ul>
+    <li>C. Scott Ananian</li>
+    <li>Roslyn L. Feldberg</li>
+    <li>Lilly Christina Gaehde</li>
+    <li>David B Klafter</li>
+    <li>Naomi Sweitzer</li>
+  </ul>
+
+  <h2>Precinct 11 Town Meeting Members</h2>
+  <ul>
+    <li>Jennifer Goldsmith</li>
+    <li>Martha E. Gray</li>
+    <li>Anne Weaver</li>
+  </ul>
+
+  <h2>Precinct 13 Town Meeting Members</h2>
+  <ul>
+    <li>Ada Tadmor</li>
+    <li>Joseph Chafins</li>
+    <li>Michael Best</li>
+  </ul>
+
+  <h2>Precinct 15 Town Meeting Members</h2>
+  <ul>
+    <li>Cornelia H. J. van der Ziel</li>
+  </ul>
+
+  <h2>Precinct 17 Town Meeting Members</h2>
+  <ul>
+    <li>Elizabeth A. Schafer</li>
+  </ul>
+
+  <h2>State Representative, 15th Norfolk district [election September 6th]</h2>
+  <ul>
+    <li><a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a></li>
+  </ul>
+
+  Running for Town Meeting and interested in getting endorsed by us? Check out our <a href="/get-involved" class="usa-link">Get Involved</a> page.
 </section>
 
 <style>
   .precincts {
     display: grid;
     grid-template-columns: repeat(auto, 10px minmax(20px, 30px))
+  }
+
+  h2 {
+    font-size: 1.2rem;
   }
 </style>

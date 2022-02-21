@@ -1,11 +1,11 @@
 <script context="module">
-	export const prerender = true;
+  export const prerender = true;
 </script>
 
 <script>
   import { onMount } from 'svelte';
 
-	onMount(async () => {
+  onMount(async () => {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
@@ -21,74 +21,35 @@
 
 <h1 class="usa-sr-only">Brookline Equity Coalition</h1>
 
-<section class="grid-container usa-section">
+<section class="grid-container usa-section usa-prose">
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-4">
       <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
-        <span style="font-weight: 900; vertical-align: super">Step up,</span> <span style="font-weight: 300; vertical-align: sub">step&nbsp;back</span>
+        Who are we?
       </h2>
     </div>
-    <div class="tablet:grid-col-8 usa-prose">
-      <!--<p>
-        We are a coalition of neighbors and community organizers committed to electing progressives to all positions in Town government to achieve the <b>boldly progressive</b> changes Brookline wants and needs.
-      </p>-->
-      <p>The Brookline Equity Coalition is a grassroots political action organization that <mark>promotes equity and justice in our community through an anti-racist lens</mark>. We make space for marginalized voices to step up and <a href="/get-involved" class="usa-link">get involved</a>, and encourage those with privilege to step back in support.</p>
-      <p>We are committed to <a href="/endorsements">electing progressive candidates</a> to all positions in Town government to achieve the boldly progressive changes Brookline wants and needs.</p>
-
-      <!--<p>We <b>recruit and support bold, progressive candidates in local elections</b>, who will challenge the status quo for a more equitable Brookline.</p>-->
+    <div class="tablet:grid-col-8">
+      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve majorities in municipal government during the <a href="/town-election" class="usa-link">Tuesday, May 3rd Town election</a> (and beyond) willing to pass and implement progressive policies.</p>
+      <p>It is our belief that the voters of Brookline are far more progressive than what their current representation is providing them. To our group, “progressive” means fighting for policies that would:</p>
+      <ul>
+        <li>Fully fund services for older adults.</li>
+        <li>Fervently address the climate crisis.</li>
+        <li>Improve municipal government structures.</li>
+        <li>Support hybrid (in-person + virtual) meeting options.</li>
+        <li>Refurbish and renovate public housing units.</li>
+        <li>Fight food insecurity with Town resources.</li>
+        <li>Build truly affordable housing that prioritizes people and community, not profit.</li>
+        <li>Provide ample resources for public school students and educators.</li>
+        <li>Recognize how social and economic inequalities are interconnected.</li>
+        <li>Reimagine public safety to mean proactively fulfilling people's social, health-related, and economic needs.</li>
+        <li>Fully accommodate residents with limited English proficiency.</li>
+        <li>Address the needs and interests of residents with disabilities.</li>
+        <li>Fight bias and discrimination along the lines of race, gender identity, and sexuality.</li>
+        <li>Meet the needs of renters, a critically under-represented constituency in Town government.</li>
+        <li>[See more on our “Values” page]</li>
+      </ul>
+      <p>We humbly ask for your support of our <a href="/endorsements" class="usa-link">endorsed candidates</a> in Brookline's <strong>May 3rd Election</strong> so that we can fight in Town government to attain such progressive policies.</p>
+      <p>Furthermore, we encourage anyone who agrees with the above policies to consider getting involved in our organizing and maybe even run for Town Meeting yourself! Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
     </div>
   </div>
 </section>
-
-<!--<section class="usa-graphic-list usa-section usa-section--light">
-  <div class="grid-container">
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        <img
-          class="usa-media-block__img"
-          src="/assets/img/circle-124.png"
-          alt=""
-        />
-        <div class="usa-media-block__body">
-          <h2 class="usa-graphic-list__heading">
-            Our values
-          </h2>
-          <p>
-            <q>Progressive</q> means different things to different people. To our organizers and candidates, progressive means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.
-          </p>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        <img
-          class="usa-media-block__img"
-          src="/assets/img/circle-124.png"
-          alt=""
-        />
-        <div class="usa-media-block__body">
-          <h2 class="usa-graphic-list__heading">
-            Our goals
-          </h2>
-          <p>
-            We aim to achieve majorities in Town government willing to pass legislation in keeping with our values.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>-->
-
-<style>
-  mark {
-    font-weight: 500;
-    background-color: #FFD500;
-  }
-
-  .usa-prose {
-    font-size: 1.125rem;
-  }
-
-  a, a:visited {
-    color: #d7008e;
-    font-weight: 600;
-  }
-</style>

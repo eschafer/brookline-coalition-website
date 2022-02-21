@@ -1,12 +1,12 @@
 <script context="module">
-	export const prerender = true;
+  export const prerender = true;
 </script>
 
 <script>
-	import { onDestroy, onMount } from 'svelte';
+  import { onDestroy, onMount } from 'svelte';
   import Accordion from '$lib/uswds/Accordion.svelte';
 
-	let accordion;
+  let accordion;
   let items = [
     {
       id: 'image-credits',
@@ -26,10 +26,10 @@
     },
   ];
 
-	onMount(async () => {
-		accordion = await import('uswds/src/js/components/accordion');
+  onMount(async () => {
+    accordion = await import('uswds/src/js/components/accordion');
     
-		accordion.on();
+    accordion.on();
   });
 
   onDestroy(async() => {
@@ -62,7 +62,7 @@
           <img class="usa-media-block__img"  src="/img/icons/van.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Fully fund services for older adults</h3>
-            <p>Ensure institutions like the Senior Center are amply staffed and resourced, so older adults can age comfortably and healthily.</p>
+            <p>Ensure institutions like the <a href="https://www.brooklineseniorcenter.org/" class="usa-link usa-link--external">Senior Center</a> are amply staffed and resourced, so older adults can age comfortably and healthily.</p>
           </div>
         </div>
       </div>
@@ -117,7 +117,7 @@
           <img class="usa-media-block__img"  src="/img/icons/brainstorm.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Reimagining public safety</h3>
-            <p>Reallocate funds from the police budget to services that would better fulfill people’s social, health-related, and economic needs — that would, in turn, improve public safety.</p>
+            <p>Reallocate funds from the police budget to services that would better fulfill people's social, health-related, and economic needs — that would, in turn, improve public safety.</p>
           </div>
         </div>
       </div>
@@ -133,7 +133,7 @@
           <img class="usa-media-block__img"  src="/img/icons/black-lives-matter.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Racial justice</h3>
-            <p>Our government should use a racial equity framework that clearly names Brookline’s history in creating and maintaining racial inequalities. Furthermore, we must acknowledge and provide restitution for the Town’s racist actions and history.</p>
+            <p>Our government should use a racial equity framework that clearly names Brookline's history in creating and maintaining racial inequalities. Furthermore, we must acknowledge and provide restitution for the <a href="https://www.bostonglobe.com/2021/10/05/metro/brookline-town-meeting-approves-11-million-settle-racial-discrimination-lawsuit/" class="usa-link usa-link--external">Town's racist actions</a> and history.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
@@ -197,7 +197,7 @@
           <img class="usa-media-block__img"  src="/img/icons/budget.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Representative</h3>
-            <p>Push for Town budgets that better reflect our Town’s progressive principles and priorities.</p>
+            <p>Push for Town budgets that better reflect our Town's progressive principles and priorities.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
@@ -213,9 +213,11 @@
 
 </div>
 
-<Accordion
-  items={items}
-/>
+<div class="grid-container">
+  <Accordion
+    items={items}
+  />
+</div>
 
 <style>
   .usa-media-block__img {

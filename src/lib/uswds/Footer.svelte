@@ -166,7 +166,7 @@
     class="usa-identifier__section usa-identifier__section--usagov"
   >
     <div class="usa-identifier__container">
-    <small>We live on the stolen, unceded land of the Massachusett people, whose traditions, language and stewardship continue today through their lineal descendants, the <a href="http://massachusetttribe.org/">Massachusett Tribe at Ponkapoag</a>.</small>
+    <!--<small>We live on the stolen, unceded land of the Massachusett people, whose traditions, language and stewardship continue today through their lineal descendants, the <a href="http://massachusetttribe.org/">Massachusett Tribe at Ponkapoag</a>.</small>-->
 
     </div>
   </section>
