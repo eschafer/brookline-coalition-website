@@ -33,7 +33,7 @@
     <div class="tablet:grid-col-8">
       <form
         on:submit|preventDefault={handleSubmit}
-        name="contact"
+        name="subscribe-mailing-list"
         method="POST"
         data-netlify="true"
         class="usa-form usa-form--large"
