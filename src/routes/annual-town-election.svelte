@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Annual Town Election — Brookline Equity Coalition</title>
+  <meta name="description" content="During Brookline's Tuesday, May 3rd municipal election, 245 Town Meeting Member seats will be on the ballot.">
+</svelte:head>
+
 <script context="module">
   export const prerender = true;
 </script>

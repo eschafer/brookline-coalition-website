@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Endorsements — Brookline Equity Coalition</title>
+  <meta name="description" content="The Brookline Equity Coalition's endorsed candidates for local elections.">
+</svelte:head>
+
 <script context="module">
   export const prerender = true;
 </script>
@@ -5,7 +10,7 @@
 <section class="usa-section grid-container usa-prose">
   <h1>Endorsements for <time datetime="2022">2022</time></h1>
 
-  <p>The Brookline Equity Coalition's endorsed candidates. Individuals running for Town Meeting will be on the ballot during the <a href="/town-election" class="usa-link">May 3rd municipal election</a>.
+  <p>The Brookline Equity Coalition's endorsed candidates. Individuals running for Town Meeting will be on the ballot during the <a href="/annual-town-election" class="usa-link">May 3rd municipal election</a>.
   </p>
 
   <h2>Precinct 1 Town Meeting Members</h2>

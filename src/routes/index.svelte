@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Brookline Equity Coalition</title>
+  <meta name="description" content="Brookline Equity Coalition is a grassroots group of neighbors and community organizers committed to electing progressives to all positions in Town government.">
+</svelte:head>
+
 <script context="module">
   export const prerender = true;
 </script>
@@ -29,7 +34,7 @@
       </h2>
     </div>
     <div class="tablet:grid-col-8">
-      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve majorities in municipal government during the <a href="/town-election" class="usa-link">Tuesday, May 3rd Town election</a> (and beyond) willing to pass and implement progressive policies.</p>
+      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve majorities in municipal government during the <a href="/annual-town-election" class="usa-link">Tuesday, May 3rd Town election</a> (and beyond) willing to pass and implement progressive policies.</p>
       <p>It is our belief that the voters of Brookline are far more progressive than what their current representation is providing them. To our group, “progressive” means fighting for policies that would:</p>
       <ul>
         <li>Fully fund services for older adults.</li>

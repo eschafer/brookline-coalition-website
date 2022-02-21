@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Accessibility — Brookline Equity Coalition</title>
+  <meta name="description" content="The Brookline Equity Coalition is committed to ensuring accessibility across all media for people with disabilities.">
+</svelte:head>
+
 <section class="usa-section grid-container usa-prose">
   <h1>Accessibility Statement</h1>
 

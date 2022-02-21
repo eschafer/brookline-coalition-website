@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Our Values — Brookline Equity Coalition</title>
+  <meta name="description" content="To our organizers and candidates, progressive means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.">
+</svelte:head>
+
 <script context="module">
   export const prerender = true;
 </script>

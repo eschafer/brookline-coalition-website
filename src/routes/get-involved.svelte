@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Get Involved — Brookline Equity Coalition</title>
+  <meta name="description" content="Sign up for our mailing list, join as an organizer, or get endorsed by the Brookline Equity Coalition.">
+</svelte:head>
+
 <script context="module">
   export const prerender = true;
 </script>

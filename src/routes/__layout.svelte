@@ -28,7 +28,7 @@
           label: "Endorsements",
         },
         {
-          href: "/town-election",
+          href: "/annual-town-election",
           label: "May 3rd Election",
         },
         {
@@ -52,7 +52,7 @@
           label: "Endorsements",
         },
         {
-          href: "/town-election",
+          href: "/annual-town-election",
           label: "May 3rd Election",
         },
         {
@@ -65,11 +65,11 @@
 </script>
 
 <svelte:head>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
-  <link rel="alternate" href={`https://www.example.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
-  <link rel="alternate" href={`https://www.example.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
-  <link rel="alternate" href={`https://www.example.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />
+  <!--<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>-->
+  <!--<link rel="alternate" href={`https://www.brooklineequitycoalition.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="en" />
+  <link rel="alternate" href={`https://www.brooklineequitycoalition.org/es${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="es" />
+  <link rel="alternate" href={`https://www.brooklineequitycoalition.org/zh${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="zh" />
+  <link rel="alternate" href={`https://www.brooklineequitycoalition.org${$page.url.pathname.replace(/^\/(es|zh)($|\/)/, '/')}`} hreflang="x-default" />-->
 </svelte:head>
 
 <div class="wrapper">
