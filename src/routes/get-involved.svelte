@@ -38,6 +38,10 @@
         data-netlify="true"
         class="usa-form usa-form--large"
       >
+        <!-- this is needed to work with netlify forms -->
+        <!-- https://docs.netlify.com/forms/setup/#work-with-javascript-rendered-forms -->
+        <input type="hidden" name="form-name" value="subscribe-mailing-list" />
+
         <fieldset class="usa-fieldset">
           <legend class="usa-legend usa-legend--large">
             Sign up for our mailing list
