@@ -23,7 +23,7 @@
 {#if items.length > 0}
   <div
     class={`usa-accordion${variant ? ` usa-accordion--${variant}` : ''}`}
-    aria-multiselectable={`${multiselectable === true ? 'true' : undefined}`}
+    aria-multiselectable={multiselectable === true ? 'true' : undefined}
   >
     {#each items as item (item.id)}
       <!-- Use the accurate heading level to maintain the document outline -->
