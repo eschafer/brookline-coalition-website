@@ -47,9 +47,9 @@
 <div class="usa-section grid-container usa-prose">
   <h1>Our Values</h1>
 
-  <p><q>Progressive</q> means different things to different people. To our organizers and candidates, progressive means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.</p>
+  <p>To our organizers and candidates, <q>progressive</q> means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.</p>
 
-  <p>Progressive should mean — and has meant to our incumbent candidates — fighting for:</p>
+  <p>Progressive should mean — and has meant to our incumbent candidates — advocating for:</p>
 
   <h2>The improved health & wellbeing of residents</h2>
 
@@ -59,8 +59,8 @@
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/grocery.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Fight food insecurity</h3>
-            <p>Use Town resources to do so when required.</p>
+            <h3 class="usa-graphic-list__heading">Address food insecurity</h3>
+            <p>Use Town resources to do so when required. A <a href="https://www.brooklinema.gov/DocumentCenter/View/28715/-Final-Report-2022-with-stakeholders" class="usa-link usa-link--external">recent study by the town (see “Food Access” section)</a> reveals that many community members struggle to secure a stable, nutritious diet — particularly low-income residents, BIPOC individuals, and older adults.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
@@ -75,15 +75,15 @@
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/renovation.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Refurbish and renovate public housing units</h3>
-            <p>All residents deserve healthy and safe living spaces.</p>
+            <h3 class="usa-graphic-list__heading">Refurbish public housing units</h3>
+            <p>Deal with the mold, pests, unmet repairs, and lack of basic appliances BHA tenants have reported. All Brookline residents deserve a healthy and safe living space.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/school-bag.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Ample resources for public school students and teachers</h3>
-            <p>And a commitment to make the Brookline public schools system more equitable, regardless of race, color, national origin and income.</p>
+            <h3 class="usa-graphic-list__heading">Provide ample resources for public school students and teachers</h3>
+            <p>Commit to making the Brookline public school system more equitable, regardless of race, color, national origin, or income.</p>
           </div>
         </div>
       </div>
@@ -98,15 +98,15 @@
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/town.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Housing justice</h3>
-            <p>We need more affordable housing; not just any housing but more homes affordable to traditionally excluded people and older adults, family public housing, co-ops, and community land trusts.</p>
+            <h3 class="usa-graphic-list__heading">Deliver housing justice</h3>
+            <p>Build more affordable housing; not just any housing, but specifically more homes affordable to traditionally excluded people and older adults, family public housing, co-ops, and community land trusts.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/charter.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Charter change</h3>
-            <p>An openness to that process and other structural changes that would increase voter turnout and civic participation.</p>
+            <h3 class="usa-graphic-list__heading">Improve government structures</h3>
+            <p>Explore processes like charter change and other structural shifts that could increase voter turnout and civic participation.</p>
           </div>
         </div>
       </div>
@@ -115,14 +115,23 @@
           <img class="usa-media-block__img"  src="/img/icons/climate-change.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Address the climate crisis</h3>
-            <p>Do so with the urgency, magnitude, and social justice lens it demands.</p>
+            <p>Commit to such efforts with the urgency, magnitude, and social justice lens that it demands.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/brainstorm.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Reimagining public safety</h3>
-            <p>Reallocate funds from the police budget to services that would better fulfill people's social, health-related, and economic needs — that would, in turn, improve public safety.</p>
+            <h3 class="usa-graphic-list__heading">Reimagine public safety</h3>
+            <p>Reallocate funds from the police budget to services that would better fulfill people's social, health-related, and economic needs — which would, in turn, improve public safety.</p>
+          </div>
+        </div>
+      </div>
+      <div class="usa-graphic-list__row grid-row grid-gap">
+        <div class="usa-media-block tablet:grid-col">
+          <img class="usa-media-block__img"  src="/img/icons/friends.png" width="64" height="64" alt="">
+          <div class="usa-media-block__body">
+            <h3 class="usa-graphic-list__heading">Empower our youth</h3>
+            <p>Make the Town's government more accessible to the 18.6% of Town residents below the age of 18. After all, local policy decisions will directly affect their futures.</p>
           </div>
         </div>
       </div>
@@ -138,14 +147,14 @@
           <img class="usa-media-block__img"  src="/img/icons/black-lives-matter.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Racial justice</h3>
-            <p>Our government should use a racial equity framework that clearly names Brookline's history in creating and maintaining racial inequalities. Furthermore, we must acknowledge and provide restitution for the <a href="https://www.bostonglobe.com/2021/10/05/metro/brookline-town-meeting-approves-11-million-settle-racial-discrimination-lawsuit/" class="usa-link usa-link--external">Town's racist actions</a> and history.</p>
+            <p>Use a racial equity framework that clearly names Brookline's history in creating and maintaining racial inequalities. Furthermore, we must acknowledge and provide restitution for the <a href="https://www.bostonglobe.com/2021/10/05/metro/brookline-town-meeting-approves-11-million-settle-racial-discrimination-lawsuit/" class="usa-link usa-link--external">Town's racist actions</a> and history.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/politician.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Gender bias</h3>
-            <p>Women, as well as non-binary and genderfluid individuals, deserve proper levels of representation in all aspects of Town government.</p>
+            <p>Ensure women, as well as non-binary and genderfluid individuals, have representation in all aspects of Town government.</p>
           </div>
         </div>
       </div>
@@ -154,14 +163,14 @@
           <img class="usa-media-block__img"  src="/img/icons/rgb.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Intersectionality</h3>
-            <p>Pursue measures that reflect the interconnected nature of social and economic inequality, systems, and justice.</p>
+            <p>Pursue measures that reflect the interconnected nature of <a href="https://static1.squarespace.com/static/5b2920ad5b409b6a11fdc538/t/621543b7975c7a66fcb794db/1645560781886/BCF_ARPA+Community+Engagement+Report_February+2022.pdf" class="usa-link usa-link--external">social and economic inequality</a>, systems, and justice.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/world-pride-day.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">LGBTQIA+ liberation</h3>
-            <p>Support policies, education, and actions that would combat heteronormativity, and promote healthy outlooks regarding sex, gender identity, and sexuality.</p>
+            <p>Advocate for policies, education and actions that combat heteronormativity. Promote healthy perspectives regarding sex, gender identity, and sexuality.</p>
           </div>
         </div>
       </div>
@@ -170,7 +179,7 @@
           <img class="usa-media-block__img"  src="/img/icons/birth-control.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Reproductive justice</h3>
-            <p>All people deserve unconstrained access to abortion care. Additionally, we must dismantle the additional barriers that people of color and low-income individuals face to contraception access.</p>
+            <p>Support unconstrained access to abortion care. Additionally, we must dismantle the additional barriers that people of color and low-income individuals face to contraception access.</p>
           </div>
         </div>
       </div>
@@ -186,14 +195,14 @@
           <img class="usa-media-block__img"  src="/img/icons/online-meeting.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Inclusivity</h3>
-            <p>Support hybrid (in person and virtual) meeting options, and ensure residents have the technology for virtual access to meetings.</p>
+            <p>Adopt hybrid (in person and virtual) meeting options, and ensure residents have the technology for virtual access to meetings.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/accessibility.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Accessibility</h3>
-            <p>Better address the interests, concerns, and needs of those with physical, mental, and developmental disabilities or who have limited English proficiency.</p>
+            <p>Address the interests, concerns, and needs of those with physical, mental, and developmental disabilities or who have limited English proficiency.</p>
           </div>
         </div>
       </div>

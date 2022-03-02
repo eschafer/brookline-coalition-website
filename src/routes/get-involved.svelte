@@ -95,19 +95,20 @@
 
       <h2>Join us as an organizer.</h2>
 
-      <p>Individuals who are not seeking endorsements can join the Brookline Equity Coalition (BEC) as an organizer.</p>
+      <p>Individuals who are not running for office can join the Brookline Equity Coalition (BEC) as an organizer.</p>
       <p>To join, send an email to <a href="mailto:RBcampaignEmail@gmail.com" class="usa-link usa-link--external">RBcampaignEmail@gmail.com</a> affirming you agree with <a href="/values" class="usa-link">our values</a>. In your message, please also tell us a little about yourself and why you wish to get involved.</p>
       <p>Please note that we feel an obligation to ensure our group is an organizing space safe from those whose intentions run counter to progressive values. Individuals who are known to be campaigning for conservative or reactionary candidates and causes, and/or undermining progressive efforts will not be permitted admittance.</p>
       
 
-      <h2>Get endorsed by us.</h2>
+      <h2>Get endorsed by us and become a member.</h2>
 
-      <p>If you are interested in being endorsed by BEC, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSccRojH6z-aqGKuD9vOuqUQ7I0T-C0eVtH4xcHMhjlSILDXIQ/viewform" class="usa-link usa-link--external">this Google Form</a>.</p>
+      <p>If you are running for Town Meeting in Brookline, and are interested in joining BEC and/or being endorsed by us, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSccRojH6z-aqGKuD9vOuqUQ7I0T-C0eVtH4xcHMhjlSILDXIQ/viewform" class="usa-link usa-link--external">this Google Form</a>.</p>
       <p>Note that we will look at political contribution history, previous endorsements (of and by you), past public statements, and voting records (if you're an incumbent).</p>
       <p>We understand that everyone's politics can evolve, so rather than judge someone according to a single statement or decision, we will consider the totality of information available.</p>
-      <p>Membership in BEC does not obligate a candidate to mutually endorse all of our other Town Meeting candidates. However, with respect to the <strong>State Rep race in the 15th Norfolk district</strong>, our group sees vast differences between the two current candidates that are impossible to ignore.</p>
-      <p>In the Select Board's Vice Chair, <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a>, we see someone willing to challenge the status quo and the Massachusetts State House is in dire need of more individuals willing to <a href="https://actonmass.org/the-campaign" class="usa-link usa-link--external">speak truth to power</a>. In Fernandez, we also see a fighter for climate, justice and racial justice; in other words, someone with a comprehensive understanding of inequality. Therefore, we do ask for our candidates to side with Fernandez in the September 6th State primary election.</p>
-
+      <p>Membership in BEC — or an endorsement from us — does not obligate a candidate to mutually endorse all of our other Town Meeting candidates.</p>
+      <p>However, with respect to the upcoming State Rep race in the 15th Norfolk district, the B.E.C. sees vast differences between the two current candidates that are impossible to ignore.</p>
+      <p>We see the Select Board's Vice Chair, <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a>, as someone willing to challenge the status quo — and the Massachusetts State House is in dire need of more individuals willing to <a href="https://actonmass.org/the-campaign" class="usa-link usa-link--external">speak truth to power</a>. In Fernandez, we also see an advocate for climate justice, racial justice, and economic justice; in other words, someone with a comprehensive understanding of inequality.</p>
+      <p>Therefore, we ask BEC members to side with Fernandez in the September 6th State primary election.</p>
     </div>
   </div>
 </section>

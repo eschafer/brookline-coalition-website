@@ -16,7 +16,12 @@
   <h2>Precinct 1 Town Meeting Members</h2>
   <ul>
     <li>Deborah Brown</li>
-    <li>Dave Walker</li>
+    <li>David Walker</li>
+  </ul>
+
+  <h2>Precinct 2 Town Meeting Members</h2>
+  <ul>
+    <li>Kimberley Richardson</li>
   </ul>
 
   <h2>Precinct 3 Town Meeting Members</h2>
@@ -34,13 +39,16 @@
   <ul>
     <li>Arthur Wellington Conquest, III</li>
     <li>Malcolm C. Doldron</li>
+    <li>Marissa Vogt</li>
     <li>Ryan D Black</li>
+    <li>Laura Bradford</li>
   </ul>
 
   <h2>Precinct 7 Town Meeting Members</h2>
   <ul>
     <li>Chi Chi Wu</li>
     <li>Colin Stokes</li>
+    <li>Simon Grossman</li>
   </ul>
 
   <h2>Precinct 8 Town Meeting Members</h2>
@@ -60,6 +68,7 @@
     <li>Lilly Christina Gaehde</li>
     <li>David B Klafter</li>
     <li>Naomi Sweitzer</li>
+    <li>Kimberly Loscalzo</li>
   </ul>
 
   <h2>Precinct 11 Town Meeting Members</h2>
@@ -67,6 +76,12 @@
     <li>Jennifer Goldsmith</li>
     <li>Martha E. Gray</li>
     <li>Anne Weaver</li>
+    <li>Zsuzsanna Kaldy</li>
+  </ul>
+
+  <h2>Precinct 12 Town Meeting Members</h2>
+  <ul>
+    <li>Michael Kushner</li>
   </ul>
 
   <h2>Precinct 13 Town Meeting Members</h2>
@@ -74,6 +89,7 @@
     <li>Ada Tadmor</li>
     <li>Joseph Chafins</li>
     <li>Michael Best</li>
+    <li>Kevin Mackenzie</li>
   </ul>
 
   <h2>Precinct 15 Town Meeting Members</h2>
@@ -95,11 +111,6 @@
 </section>
 
 <style>
-  .precincts {
-    display: grid;
-    grid-template-columns: repeat(auto, 10px minmax(20px, 30px))
-  }
-
   h2 {
     font-size: 1.2rem;
   }

@@ -98,6 +98,27 @@
       <ul class="usa-identifier__required-links-list">
         <li class="usa-identifier__required-links-item">
           <a
+            href="https://twitter.com/BklneCoalition"
+            class="usa-identifier__required-link usa-link usa-link--external"
+            >Twitter</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="https://www.instagram.com/brooklineequitycoalition/"
+            class="usa-identifier__required-link usa-link usa-link--external"
+            >Instagram</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
+            href="https://www.facebook.com/BrooklineEquityCoalition/"
+            class="usa-identifier__required-link usa-link usa-link--external"
+            >Facebook</a
+          >
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a
             href="/accessibility"
             class="usa-identifier__required-link usa-link"
             >Accessibility</a

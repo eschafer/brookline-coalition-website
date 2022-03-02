@@ -30,31 +30,46 @@
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-4">
       <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
-        Who are we?
+        Who we are.
       </h2>
     </div>
     <div class="tablet:grid-col-8">
-      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve majorities in municipal government during the <a href="/annual-town-election" class="usa-link">Tuesday, May 3rd Town election</a> (and beyond) willing to pass and implement progressive policies.</p>
-      <p>It is our belief that the voters of Brookline are far more progressive than what their current representation is providing them. To our group, “progressive” means fighting for policies that would:</p>
-      <ul>
-        <li>Fully fund services for older adults.</li>
-        <li>Fervently address the climate crisis.</li>
-        <li>Improve municipal government structures.</li>
-        <li>Support hybrid (in-person + virtual) meeting options.</li>
-        <li>Refurbish and renovate public housing units.</li>
-        <li>Fight food insecurity with Town resources.</li>
-        <li>Build truly affordable housing that prioritizes people and community, not profit.</li>
-        <li>Provide ample resources for public school students and educators.</li>
-        <li>Recognize how social and economic inequalities are interconnected.</li>
-        <li>Reimagine public safety to mean proactively fulfilling people's social, health-related, and economic needs.</li>
-        <li>Fully accommodate residents with limited English proficiency.</li>
-        <li>Address the needs and interests of residents with disabilities.</li>
-        <li>Fight bias and discrimination along the lines of race, gender identity, and sexuality.</li>
-        <li>Meet the needs of renters, a critically under-represented constituency in Town government.</li>
-        <li>[See more on our “Values” page]</li>
-      </ul>
-      <p>We humbly ask for your support of our <a href="/endorsements" class="usa-link">endorsed candidates</a> in Brookline's <strong>May 3rd Election</strong> so that we can fight in Town government to attain such progressive policies.</p>
-      <p>Furthermore, we encourage anyone who agrees with the above policies to consider getting involved in our organizing and maybe even run for Town Meeting yourself! Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
+      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve progressive majorities in municipal government during the <a href="/annual-town-election" class="usa-link">Tuesday, May 3rd Town election</a> and beyond.</p>
+
+      <p>It is our belief that Brookline deserves a town government with strong progressive values. As progressives, we advocate for:</p>
+      <dl>
+          <dt>Improving the health & wellbeing of residents.</dt>
+          <dd>Funding food security, older adult services, the repair of public housing units, and public education.</dd>
+
+          <dt>Forward-looking, community-driven planning.</dt>
+          <dd>Prioritizing addressing the climate crisis, affordable housing, increasing civic participation, and meeting residents' needs.</dd>
+
+          <dt>Principled, open-minded leadership.</dt>
+          <dd>Always factoring in racial justice, representation for all genders, LGBTQIA+ liberation, the need for intersectionality, and reproductive justice.</dd>
+
+          <dt>Good governance.</dt>
+          <dd>Ensuring seats at the table for the typically under-represented, meeting the needs of individuals with disabilities or with limited English proficiency, and budgeting that reflects progressive priorities.</dd>
+      </dl>
+
+      <p>(For more detail, see <a href="/values" class="usa-link">our values</a>.)</p>
+
+    </div>
+  </div>
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-4">
+      <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
+        Making Brookline a progressive town.
+      </h2>
+    </div>
+    <div class="tablet:grid-col-8">
+      <p>We ask for your support of our <a href="/endorsements" class="usa-link">endorsed candidates</a> in Brookline's May 3rd Election. Help us create a town government that prioritizes progressive values and policies!</p>
+      <p>Furthermore, we encourage anyone who agrees with the above policies to join our organizing, and even run for Town Meeting yourself! Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
     </div>
   </div>
 </section>
+
+<style>
+  dt {
+    font-weight: 700;
+  }
+</style>
