@@ -99,7 +99,7 @@
 
   <h2>Precinct 17 Town Meeting Members</h2>
   <ul>
-    <li>Elizabeth A. Schafer</li>
+    <li>Elizabeth Schafer</li>
   </ul>
 
   <h2>State Representative, 15th Norfolk district [election September 6th]</h2>
