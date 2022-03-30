@@ -16,12 +16,15 @@
   <h2>Precinct 1 Town Meeting Members</h2>
   <ul>
     <li>Deborah Brown</li>
+    <li>Johnathon Card</li>
     <li>David Walker</li>
+    <li>Rachel Watson</li>
   </ul>
 
   <h2>Precinct 2 Town Meeting Members</h2>
   <ul>
     <li>Kimberley Richardson</li>
+    <li>Carlos Mario Tamayo</li>
   </ul>
 
   <h2>Precinct 3 Town Meeting Members</h2>
@@ -33,6 +36,7 @@
   <h2>Precinct 5 Town Meeting Members</h2>
   <ul>
     <li>Bonnie Bastien</li>
+    <li>Omar Mabrouk</li>
   </ul>
 
   <h2>Precinct 6 Town Meeting Members</h2>
@@ -54,18 +58,23 @@
   <h2>Precinct 8 Town Meeting Members</h2>
   <ul>
     <li>Anne Greenwald</li>
+    <li>Christina Marie Kovach</li>
+    <li>Alexander Lebovitz</li>
+    <li>Sam Cournoyer</li>
+    <li>Tyler Daddio</li>
   </ul>
 
   <h2>Precinct 9 Town Meeting Members</h2>
   <ul>
+    <li>Ashley Eng</li>
     <li>Robert D. Lepson</li>
   </ul>
 
   <h2>Precinct 10 Town Meeting Members</h2>
   <ul>
+    <li>Suzette Abbott</li>
     <li>C. Scott Ananian</li>
     <li>Roslyn L. Feldberg</li>
-    <li>Lilly Christina Gaehde</li>
     <li>David B Klafter</li>
     <li>Naomi Sweitzer</li>
     <li>Kimberly Loscalzo</li>
