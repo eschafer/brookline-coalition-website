@@ -63,7 +63,7 @@
     </div>
     <div class="tablet:grid-col-8">
       <p>We ask for your support of our <a href="/endorsements" class="usa-link">endorsed candidates</a> in Brookline's May 3rd Election. Help us create a town government that prioritizes progressive values and policies!</p>
-      <p>Furthermore, we encourage anyone who agrees with the above policies to join our organizing, and even run for Town Meeting yourself! Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
+      <p>Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
     </div>
   </div>
 </section>
