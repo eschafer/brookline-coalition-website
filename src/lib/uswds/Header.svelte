@@ -88,6 +88,15 @@
               {/if}
             </li>
           {/each}
+          <!-- TODO: this shouldn't be hardcoded -->
+          <li class="usa-nav__primary-item">
+            <a
+              href="https://secure.actblue.com/donate/bec"
+              class="usa-button usa-link--external"
+            >
+              <span>Donate</span>
+            </a>
+          </li>
         </ul>
       {/if}
     </nav>
@@ -109,6 +118,10 @@
 
   .usa-logo-img {
     max-height: 6rem;
+  }
+
+  .usa-nav__primary > .usa-nav__primary-item > .usa-button {
+    color: white;
   }
 
   .usa-menu-btn {
