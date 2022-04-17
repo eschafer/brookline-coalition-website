@@ -31,6 +31,7 @@
   <ul>
     <li>Jeffrey Benson</li>
     <li>Mariah Nobrega</li>
+    <li>Nate Tucker</li>
   </ul>
 
   <h2>Precinct 5 Town Meeting Members</h2>
@@ -41,11 +42,12 @@
 
   <h2>Precinct 6 Town Meeting Members</h2>
   <ul>
-    <li>Arthur Wellington Conquest, III</li>
-    <li>Malcolm C. Doldron</li>
-    <li><a href="http://bit.ly/vogt4brookline" class="usa-link usa-link--external">Marissa Vogt</a></li>
     <li>Ryan D Black</li>
     <li>Laura Bradford</li>
+    <li>Arthur Wellington Conquest, III</li>
+    <li>Malcolm C. Doldron</li>
+    <li>Natalia Linos</li>
+    <li><a href="http://bit.ly/vogt4brookline" class="usa-link usa-link--external">Marissa Vogt</a></li>
   </ul>
 
   <h2>Precinct 7 Town Meeting Members</h2>
@@ -66,8 +68,11 @@
 
   <h2>Precinct 9 Town Meeting Members</h2>
   <ul>
+    <li>Lee Biernbaum</li>
     <li><a href="http://bit.ly/ashleyforbrookline" class="usa-link usa-link--external">Ashley Eng</a></li>
+    <li>Matti Klock</li>
     <li>Robert D. Lepson</li>
+    <li>Damon Graff</li>
   </ul>
 
   <h2>Precinct 10 Town Meeting Members</h2>
@@ -82,10 +87,11 @@
 
   <h2>Precinct 11 Town Meeting Members</h2>
   <ul>
+    <li>Shanna T. Giora-Gorfajn</li>
     <li>Jennifer Goldsmith</li>
     <li>Martha E. Gray</li>
-    <li><a href="https://bec-tmm.org/anne-weaver/" class="usa-link usa-link--external">Anne Weaver</a></li>
     <li><a href="https://bec-tmm.org/zsuzsanna-kaldy/" class="usa-link usa-link--external">Zsuzsanna Kaldy</a></li>
+    <li><a href="https://bec-tmm.org/anne-weaver/" class="usa-link usa-link--external">Anne Weaver</a></li>
   </ul>
 
   <h2>Precinct 12 Town Meeting Members</h2>
