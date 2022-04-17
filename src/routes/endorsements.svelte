@@ -17,14 +17,14 @@
   <ul>
     <li>Deborah Brown</li>
     <li>Johnathon Card</li>
-    <li>David Walker</li>
-    <li>Rachel Watson</li>
+    <li><a href="https://bec-tmm.org/david-walker/" class="usa-link usa-link--external">David Walker</a></li>
+    <li><a href="https://bec-tmm.org/rachel-watson/" class="usa-link usa-link--external">Rachel Watson</a></li>
   </ul>
 
   <h2>Precinct 2 Town Meeting Members</h2>
   <ul>
-    <li>Kimberley Richardson</li>
-    <li>Carlos Mario Tamayo</li>
+    <li><a href="https://bec-tmm.org/kimberley-richardson/" class="usa-link usa-link--external">Kimberley Richardson</a></li>
+    <li><a href="https://bec-tmm.org/carlos-mario-tamayo/" class="usa-link usa-link--external">Carlos Mario Tamayo</a></li>
   </ul>
 
   <h2>Precinct 3 Town Meeting Members</h2>
@@ -35,23 +35,23 @@
 
   <h2>Precinct 5 Town Meeting Members</h2>
   <ul>
-    <li>Bonnie Bastien</li>
-    <li>Omar Mabrouk</li>
+    <li><a href="https://bec-tmm.org/bonnie-bastien/" class="usa-link usa-link--external">Bonnie Bastien</a></li>
+    <li><a href="https://bec-tmm.org/omar-s-mabrouk/" class="usa-link usa-link--external">Omar Mabrouk</a></li>
   </ul>
 
   <h2>Precinct 6 Town Meeting Members</h2>
   <ul>
     <li>Arthur Wellington Conquest, III</li>
     <li>Malcolm C. Doldron</li>
-    <li>Marissa Vogt</li>
+    <li><a href="http://bit.ly/vogt4brookline" class="usa-link usa-link--external">Marissa Vogt</a></li>
     <li>Ryan D Black</li>
     <li>Laura Bradford</li>
   </ul>
 
   <h2>Precinct 7 Town Meeting Members</h2>
   <ul>
-    <li>Chi Chi Wu</li>
-    <li>Colin Stokes</li>
+    <li><a href="https://bec-tmm.org/chi-chi-wu/" class="usa-link usa-link--external">Chi Chi Wu</a></li>
+    <li><a href="https://bec-tmm.org/colin-stokes/" class="usa-link usa-link--external">Colin Stokes</a></li>
     <li>Simon Grossman</li>
   </ul>
 
@@ -59,14 +59,14 @@
   <ul>
     <li>Anne Greenwald</li>
     <li>Christina Marie Kovach</li>
-    <li>Alexander Lebovitz</li>
+    <li><a href="https://bec-tmm.org/alexander-lebovitz/" class="usa-link usa-link--external">Alexander Lebovitz</a></li>
     <li>Sam Cournoyer</li>
-    <li>Tyler Daddio</li>
+    <li><a href="https://bec-tmm.org/tyler-daddio/" class="usa-link usa-link--external">Tyler Daddio</a></li>
   </ul>
 
   <h2>Precinct 9 Town Meeting Members</h2>
   <ul>
-    <li>Ashley Eng</li>
+    <li><a href="http://bit.ly/ashleyforbrookline" class="usa-link usa-link--external">Ashley Eng</a></li>
     <li>Robert D. Lepson</li>
   </ul>
 
@@ -84,8 +84,8 @@
   <ul>
     <li>Jennifer Goldsmith</li>
     <li>Martha E. Gray</li>
-    <li>Anne Weaver</li>
-    <li>Zsuzsanna Kaldy</li>
+    <li><a href="https://bec-tmm.org/anne-weaver/" class="usa-link usa-link--external">Anne Weaver</a></li>
+    <li><a href="https://bec-tmm.org/zsuzsanna-kaldy/" class="usa-link usa-link--external">Zsuzsanna Kaldy</a></li>
   </ul>
 
   <h2>Precinct 12 Town Meeting Members</h2>
@@ -96,9 +96,9 @@
   <h2>Precinct 13 Town Meeting Members</h2>
   <ul>
     <li>Ada Tadmor</li>
-    <li>Joseph Chafins</li>
-    <li>Michael Best</li>
-    <li>Kevin Mackenzie</li>
+    <li><a href="https://bec-tmm.org/joseph-chafins/" class="usa-link usa-link--external">Joseph Chafins</a></li>
+    <li><a href="https://www.facebook.com/mikebestforTMM/" class="usa-link usa-link--external">Michael Best</a></li>
+    <li><a href="https://bec-tmm.org/kevin-mackenzie/" class="usa-link usa-link--external">Kevin Mackenzie</a></li>
   </ul>
 
   <h2>Precinct 15 Town Meeting Members</h2>
@@ -108,7 +108,7 @@
 
   <h2>Precinct 17 Town Meeting Members</h2>
   <ul>
-    <li>Elizabeth Schafer</li>
+    <li><a href="https://www.elizabethforbrookline.com/" class="usa-link usa-link--external">Elizabeth Schafer</a></li>
   </ul>
 
   <h2>State Representative, 15th Norfolk district [election September 6th]</h2>
