@@ -87,7 +87,7 @@
           <li>C. Scott Ananian</li>
           <li>Roslyn L. Feldberg</li>
           <li>David B Klafter</li>
-          <li>Naomi Sweitzer</li>
+          <li><a href="https://www.naomiforbrookline.org/" class="usa-link usa-link--external">Naomi Sweitzer</a></li>
           <li>Kimberly Loscalzo</li>
         </ul>
 
