@@ -74,9 +74,9 @@
 
         <h2>Precinct 9 Town Meeting Members</h2>
         <ul>
-          <li>Lee Biernbaum</li>
+          <li><a href="https://townmeeting.acrossb.com/" class="usa-link usa-link--external">Lee Biernbaum</a></li>
           <li><a href="http://bit.ly/ashleyforbrookline" class="usa-link usa-link--external">Ashley Eng</a></li>
-          <li>Matti Klock</li>
+          <li><a href="https://mattiforbrookline.org/" class="usa-link usa-link--external">Matti Klock</a></li>
           <li>Robert D. Lepson</li>
           <li>Damon Graff</li>
         </ul>
