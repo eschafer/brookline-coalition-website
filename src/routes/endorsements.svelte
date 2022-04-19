@@ -45,11 +45,11 @@
 
         <h2>Precinct 6 Town Meeting Members</h2>
         <ul>
-          <li>Ryan D Black</li>
-          <li>Laura Bradford</li>
-          <li>Arthur Wellington Conquest, III</li>
+          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/ryan-black" class="usa-link usa-link--external">Ryan D Black</a></li>
+          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/laura-bradford" class="usa-link usa-link--external">Laura Bradford</a></li>
+          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/arthur-conquest" class="usa-link usa-link--external">Arthur Wellington Conquest, III</a></li>
           <li>Malcolm C. Doldron</li>
-          <li>Natalia Linos</li>
+          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/natalia-linos" class="usa-link usa-link--external">Natalia Linos</a></li>
           <li><a href="http://bit.ly/vogt4brookline" class="usa-link usa-link--external">Marissa Vogt</a></li>
         </ul>
 
