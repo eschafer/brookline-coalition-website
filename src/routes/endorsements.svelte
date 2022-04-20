@@ -37,6 +37,11 @@
           <li>Nate Tucker</li>
         </ul>
 
+        <h2>Precinct 4 Town Meeting Members</h2>
+        <ul>
+          <li>Wendy MacMillan</li>
+        </ul>
+
         <h2>Precinct 5 Town Meeting Members</h2>
         <ul>
           <li><a href="https://bec-tmm.org/bonnie-bastien/" class="usa-link usa-link--external">Bonnie Bastien</a></li>
