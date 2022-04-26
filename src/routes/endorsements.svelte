@@ -90,7 +90,7 @@
         <ul>
           <li>Suzette Abbott</li>
           <li><a href="https://cscott.net/" class="usa-link usa-link--external">C. Scott Ananian</a></li>
-          <li>John L. Bowman</li>
+          <li><a href="https://docs.google.com/document/d/1BvHVX6NGSHd5l9vo9YExAX6B9V5v5m9ji28zLVB0SCw/edit?usp=sharing" class="usa-link usa-link--external">John L. Bowman</a></li>
           <li>Roslyn L. Feldberg</li>
           <li>David B Klafter</li>
           <li>Ariel C. Maddocks</li>
