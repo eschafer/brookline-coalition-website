@@ -89,7 +89,7 @@
         <h2>Precinct 10 Town Meeting Members</h2>
         <ul>
           <li>Suzette Abbott</li>
-          <li>C. Scott Ananian</li>
+          <li><a href="https://cscott.net/" class="usa-link usa-link--external">C. Scott Ananian</a></li>
           <li>John L. Bowman</li>
           <li>Roslyn L. Feldberg</li>
           <li>David B Klafter</li>
