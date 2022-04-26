@@ -90,6 +90,7 @@
         <ul>
           <li>Suzette Abbott</li>
           <li>C. Scott Ananian</li>
+          <li>John L. Bowman</li>
           <li>Roslyn L. Feldberg</li>
           <li>David B Klafter</li>
           <li>Ariel C. Maddocks</li>
