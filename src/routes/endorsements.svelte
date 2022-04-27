@@ -26,6 +26,7 @@
 
         <h2>Precinct 2 Town Meeting Members</h2>
         <ul>
+          <li>Chanda Jones</li>
           <li><a href="https://bec-tmm.org/kimberley-richardson/" class="usa-link usa-link--external">Kimberley Richardson</a></li>
           <li><a href="https://bec-tmm.org/carlos-mario-tamayo/" class="usa-link usa-link--external">Carlos Mario Tamayo</a></li>
         </ul>
