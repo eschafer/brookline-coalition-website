@@ -188,7 +188,7 @@
   >
     <div class="usa-identifier__container">
     <!--<small>We live on the stolen, unceded land of the Massachusett people, whose traditions, language and stewardship continue today through their lineal descendants, the <a href="http://massachusetttribe.org/">Massachusett Tribe at Ponkapoag</a>.</small>-->
-
+    <small>All Brookline Equity Coalition campaign materials, including signs and literature, are paid for from the funding of Brookline Equity Coalition members themselves.</small>
     </div>
   </section>
 </div>
