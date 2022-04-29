@@ -40,7 +40,7 @@
 
         <h2>Precinct 4 Town Meeting Members</h2>
         <ul>
-          <li>Wendy MacMillan</li>
+          <li><a href="https://brooklinep4bipoctmcandidates.info/candidates.html" class="usa-link usa-link--external">Wendy MacMillan</a></li>
         </ul>
 
         <h2>Precinct 5 Town Meeting Members</h2>
@@ -71,7 +71,7 @@
           <li>Anne Greenwald</li>
           <li>Christina Marie Kovach</li>
           <li><a href="https://bec-tmm.org/alexander-lebovitz/" class="usa-link usa-link--external">Alexander Lebovitz</a></li>
-          <li>Sam Cournoyer</li>
+          <li><a href="https://bec-tmm.org/sam-cournoyer/" class="usa-link usa-link--external">Sam Cournoyer</a></li>
           <li><a href="https://bec-tmm.org/tyler-daddio/" class="usa-link usa-link--external">Tyler Daddio</a></li>
         </ul>
 
