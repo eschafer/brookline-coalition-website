@@ -105,6 +105,7 @@
           <li>Jennifer Goldsmith</li>
           <li>Martha E. Gray</li>
           <li><a href="https://bec-tmm.org/zsuzsanna-kaldy/" class="usa-link usa-link--external">Zsuzsanna Kaldy</a></li>
+          <li>Lisa Shatz</li>
           <li><a href="https://bec-tmm.org/anne-weaver/" class="usa-link usa-link--external">Anne Weaver</a></li>
         </ul>
 
