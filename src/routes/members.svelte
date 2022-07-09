@@ -10,9 +10,9 @@
 <section class="usa-section grid-container usa-prose">
   <h1>Our membership</h1>
 
-  <p><strong>Below is a list of our members.</strong> We are trying to build an organizing space for community members who wish to help enact boldy progressive changes in Brookline. It's our aim to maintain a space that is inclusive, accessible, and democratic — but that is also safe from those whose intentions run counter to the progressive values outlined on <a href="https://docs.google.com/document/d/1HNjhQmXgDeEjLw1jmZ5goAd53OfyHCFmYfxMp_zm0U0/edit">our charter</a>.</p>
+  <p><strong>Below is a list of our members.</strong> We are trying to build an organizing space for community members who wish to help enact boldy progressive changes in Brookline. It's our aim to maintain a space that is inclusive, accessible, and democratic — but that is also safe from those whose intentions run counter to the progressive values outlined on <a href="https://docs.google.com/document/d/1HNjhQmXgDeEjLw1jmZ5goAd53OfyHCFmYfxMp_zm0U0/edit" class="usa-link usa-link--external">our charter</a>.</p>
 
-  <p>If you're interested in joining our meetings (about three times a month), we welcome you to apply. Membership costs nothing, we only ask that anyone who would like to join our group be willing to sign our charter. To start the onboarding process, check out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8oUbsHFUKdJgj2NmD-bH2tFztGdXuXxcC3zXfxqrvDip1ig/viewform">Google Form</a>.</p>
+  <p>If you're interested in joining our meetings (about three times a month), we welcome you to apply. Membership costs nothing, we only ask that anyone who would like to join our group be willing to sign our charter. To start the onboarding process, check out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8oUbsHFUKdJgj2NmD-bH2tFztGdXuXxcC3zXfxqrvDip1ig/viewform" class="usa-link usa-link--external">Google Form</a>.</p>
 
   <p>There also is no obligation to attend 100% of our meetings. We understand that people live busy lives and have many obligations already. So, we welcome whatever level of engagement you are ready to provide.</p>
 
