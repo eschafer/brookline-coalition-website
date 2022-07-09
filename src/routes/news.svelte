@@ -15,7 +15,7 @@
   <p>So, to better inform the public, a number of our members — and BEC as a whole — have written public communications about at least some of these crucial matters. And it is our intention to continue to get out the word about important happenings in (and around) Town politics. Below is a list of those communications:</p>
 
   <ul>
-    <li><a href="https://medium.com/@Brookline_Equity_Coalition/spring-town-meeting-22-recap-914cf926abe4" class="usa-link usa-link--external">Recap of Brookline's Spring 2022 Town Meeting + ways to plug into the fight for reproductive justice.</a><br/>Brookline Equity Coalition<br/>July 7th, 2022</li>
+    <li><a href="https://medium.com/@Brookline_Equity_Coalition/spring-town-meeting-22-recap-914cf926abe4" class="usa-link usa-link--external">Recap of Brookline's Spring 2022 Town Meeting + ways to plug into the fight for reproductive justice.</a><br/>Brookline Equity Coalition<br/>July 9th, 2022</li>
     <li><a href="https://patch.com/massachusetts/brookline/letter-editor-building-blue-fortress-brookline" class="usa-link usa-link--external">Building a Blue Fortress in Brookline</a><br/>Chi Chi Wu<br/>June 30th, 2022</li>
     <li><a href="https://patch.com/massachusetts/brookline/letter-editor-brookline-rejects-inequity-complaint-committee" class="usa-link usa-link--external">Brookline Rejects Inequity Complaint Committee</a><br/>Brookline Equity Coalition<br/>June 14th, 2022</li>
     <li><a href="https://medium.com/@elizschafer/uber-lyft-are-trying-to-influence-brookline-town-meeting-members-in-upcoming-vote-f5fbd0a34f86" class="usa-link usa-link--external">Uber, Lyft are trying to influence Brookline Town Meeting members in upcoming vote</a><br/>Elizabeth Schafer<br/>June 6th, 2022</li>
