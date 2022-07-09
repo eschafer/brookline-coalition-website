@@ -183,7 +183,7 @@
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
-          <img class="usa-media-block__img"  src="" width="64" height="64" alt="">
+          <img class="usa-media-block__img"  src="/img/icons/protest.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Support for labor</h3>
             <p>Stand with workers and labor unions.</p>
@@ -231,7 +231,7 @@
       </div>
       <div class="usa-graphic-list__row grid-row grid-gap">
         <div class="usa-media-block tablet:grid-col">
-          <img class="usa-media-block__img"  src="" width="64" height="64" alt="">
+          <img class="usa-media-block__img"  src="/img/icons/payday.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Sufficient resources</h3>
             <p>Work towards predictable and regularly scheduled operating overrides.</p>
