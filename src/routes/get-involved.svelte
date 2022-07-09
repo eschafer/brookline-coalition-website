@@ -91,21 +91,19 @@
         </div>
       {/if}
 
-      <h2>Get endorsed by us and/or join us as an organizer.</h2>
+      <h2>Interested in joining BEC?</h2>
 
-      <p>If you are running for Town Meeting in Brookline, and are interested in joining the Brookline Equity Coalition and/or being endorsed by us, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScc2Kq-4wySgkvl0yTX8B_ridMRUuIlXve2MlS8yIIQPOH5yg/viewform" class="usa-link usa-link--external">this Google Form</a>. Additionally, if you are not a candidate for office but wish to join our group as an organizer, you are also welcome to fill out the form.</p>
-      <p>Note that we will look at political contribution history, previous endorsements (of and by you), past public statements, and voting records (if you're an incumbent).</p>
-      <p>We understand that everyone's politics can evolve, so rather than judge someone according to a single statement or decision, we will consider the totality of information available.</p>
-      <p>Membership in the Brookline Equity Coalition — or an endorsement from us — does not obligate a candidate to mutually endorse all of our other Town Meeting candidates.</p>
-      <p>However, with respect to the upcoming State Rep race in the 15th Norfolk district, the B.E.C. sees vast differences between the two current candidates that are impossible to ignore.</p>
-      <p>We see the Select Board's Vice Chair, <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a>, as someone willing to challenge the status quo — and the Massachusetts State House is in dire need of more individuals willing to <a href="https://actonmass.org/the-campaign" class="usa-link usa-link--external">speak truth to power</a>. In Fernandez, we also see an advocate for climate justice, racial justice, and economic justice; in other words, someone with a comprehensive understanding of inequality.</p>
-      <p>Therefore, we ask Brookline Equity Coalition members to side with Fernandez in the September 6th State primary election.</p>
-    
-      <h2>What joining the Brookline Equity Coalition as a member means</h2>
+      <p>We welcome you to join us in organizing for Brookline to be a town that prioritizes progressive values and policies. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8oUbsHFUKdJgj2NmD-bH2tFztGdXuXxcC3zXfxqrvDip1ig/viewform" class="usa-link usa-link--external">Here you can find our onboarding form</a>.</p>
 
-      <p>We are trying to build an organizing space for community members who wish to help enact boldy progressive changes in Brookline. It's our aim to maintain a space that is inclusive, accessible, and democratic — but that is also safe from those whose intentions run counter to the progressive values outlined on our charter.</p>
-      <p>If you're interested in joining our meetings (about three times a month), we welcome you to apply. Membership costs nothing, we only ask that anyone who would like to join our group be willing to sign <a href="https://docs.google.com/document/d/1HNjhQmXgDeEjLw1jmZ5goAd53OfyHCFmYfxMp_zm0U0/edit" class="usa-link usa-link--external">our charter</a>.</p>
-      <p>There also is no obligation to attend 100% of our meetings. We understand that people live busy lives and have many obligations already. So, we welcome whatever level of engagement you are ready to provide.</p>
+      <h3>If you're an elected official</h3>
+
+      <p>Please note that we will look at previous endorsements (of and by you), past public statements, political contribution history, and voting records. We understand that everyone's politics can evolve, so rather than judge someone according to a single statement or decision, we will consider the totality of information available.</p>
+
+      <h3>Regarding the 15th Norfolk district primary</h3>
+
+      <p>BEC members hold a variety of differing opinions on municipal topics. But to be transparent, with respect to the upcoming State Rep race in the 15th Norfolk district, BEC sees vast differences between the two current candidates that are impossible to ignore.</p>
+      <p>We see <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a> as someone willing to challenge the status quo — and the Massachusetts State House is in dire need of more individuals willing to speak truth to power. (It being one of the <a href="https://actonmass.org/the-campaign/" class="usa-link usa-link--external">least transparent and accountable legislatures in the nation</a>.) In Fernandez, we also see an advocate for climate justice, racial justice, and economic justice; in other words, someone with a comprehensive understanding of inequality.</p>
+      <p>Therefore, we do ask Brookline Equity Coalition members to side with Fernandez in the September 6th State primary election.</p>
     </div>
   </div>
 </section>
