@@ -62,7 +62,7 @@
       </h2>
     </div>
     <div class="tablet:grid-col-8">
-      <p>Here is a list of <a href="/endorsements" class="usa-link">our members and endorsed elected officials</a>. We are your neighbors, and we welcome you to join us in helping to create a town that prioritizes progressive values and policies!</p>
+      <p>Here is a list of <a href="/members" class="usa-link">our members and endorsed elected officials</a>. We are your neighbors, and we welcome you to join us in helping to create a town that prioritizes progressive values and policies!</p>
       <p>Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
     </div>
   </div>

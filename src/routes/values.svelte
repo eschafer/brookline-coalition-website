@@ -60,7 +60,7 @@
           <img class="usa-media-block__img"  src="/img/icons/grocery.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Address food insecurity</h3>
-            <p>Use Town resources to do so when required. A <a href="https://www.brooklinema.gov/DocumentCenter/View/28715/-Final-Report-2022-with-stakeholders" class="usa-link usa-link--external">recent study by the town (see “Food Access” section)</a> reveals that many community members struggle to secure a stable, nutritious diet — particularly low-income residents, BIPOC individuals, and older adults.</p>
+            <p>Use Town resources to do so when required. A <a href="https://www.brooklinema.gov/DocumentCenter/View/29089/-Updated-Disparity-Report-March-2022" class="usa-link usa-link--external">recent study by the town (see “Food Access” section)</a> reveals that many community members struggle to secure a stable, nutritious diet — particularly low-income residents, BIPOC individuals, and older adults.</p>
           </div>
         </div>
         <div class="usa-media-block tablet:grid-col">
