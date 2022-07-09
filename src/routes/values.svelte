@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Our Values — Brookline Equity Coalition</title>
-  <meta name="description" content="To our organizers and candidates, progressive means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.">
+  <meta name="description" content="To our members, progressive means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.">
 </svelte:head>
 
 <script context="module">
@@ -47,9 +47,9 @@
 <div class="usa-section grid-container usa-prose">
   <h1>Our Values</h1>
 
-  <p>To our organizers and candidates, <q>progressive</q> means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.</p>
+  <p>To our members, <q>progressive</q> means taking real action to bring material, systemic change for racial, social, environmental, and economic justice.</p>
 
-  <p>Progressive should mean — and has meant to our incumbent candidates — advocating for:</p>
+  <p>Progressive should mean — and means to our members — advocating for:</p>
 
   <h2>The improved health & wellbeing of residents</h2>
 
@@ -105,8 +105,8 @@
         <div class="usa-media-block tablet:grid-col">
           <img class="usa-media-block__img"  src="/img/icons/charter.png" width="64" height="64" alt="">
           <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading">Improve government structures</h3>
-            <p>Explore processes like charter change and other structural shifts that could increase voter turnout and civic participation.</p>
+            <h3 class="usa-graphic-list__heading">Charter change</h3>
+            <p>A bottom-up, grassroots approach to charter change and other structural changes that would increase voter turnout and civic participation.</p>
           </div>
         </div>
       </div>
@@ -182,6 +182,13 @@
             <p>Support unconstrained access to abortion care. Additionally, we must dismantle the additional barriers that people of color and low-income individuals face to contraception access.</p>
           </div>
         </div>
+        <div class="usa-media-block tablet:grid-col">
+          <img class="usa-media-block__img"  src="" width="64" height="64" alt="">
+          <div class="usa-media-block__body">
+            <h3 class="usa-graphic-list__heading">Support for labor</h3>
+            <p>Stand with workers and labor unions.</p>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -219,6 +226,15 @@
           <div class="usa-media-block__body">
             <h3 class="usa-graphic-list__heading">Empower the unrepresented</h3>
             <p>Center the voices of people closest to the issues. Make space for individuals from typically under-represented communities to not only have a seat at the table — but become leaders.</p>
+          </div>
+        </div>
+      </div>
+      <div class="usa-graphic-list__row grid-row grid-gap">
+        <div class="usa-media-block tablet:grid-col">
+          <img class="usa-media-block__img"  src="" width="64" height="64" alt="">
+          <div class="usa-media-block__body">
+            <h3 class="usa-graphic-list__heading">Sufficient resources</h3>
+            <p>Work towards predictable and regularly scheduled operating overrides.</p>
           </div>
         </div>
       </div>
