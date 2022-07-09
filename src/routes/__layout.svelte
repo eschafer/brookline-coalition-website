@@ -24,12 +24,16 @@
           label: "Values",
         },
         {
-          href: "/endorsements",
-          label: "Endorsements",
+          href: "/members",
+          label: "Members",
         },
         {
-          href: "/annual-town-election",
-          label: "May 3rd Election",
+          href: "/news",
+          label: "News",
+        },
+        {
+          href: "/faq",
+          label: "FAQ",
         },
         {
           href: "/get-involved",

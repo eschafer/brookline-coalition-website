@@ -34,7 +34,7 @@
       </h2>
     </div>
     <div class="tablet:grid-col-8">
-      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to achieve progressive majorities in municipal government during the <a href="/annual-town-election" class="usa-link">Tuesday, May 3rd Town election</a> and beyond.</p>
+      <p>We, the Brookline Equity Coalition (BEC), are a grassroots group of community members. Our goal is to attain progressive municipal policies and governance here in Brookline.</p>
 
       <p>It is our belief that Brookline deserves a town government with strong progressive values. As progressives, we advocate for:</p>
       <dl>
@@ -42,13 +42,13 @@
           <dd>Funding food security, older adult services, the repair of public housing units, and public education.</dd>
 
           <dt>Forward-looking, community-driven planning.</dt>
-          <dd>Prioritizing addressing the climate crisis, affordable housing, increasing civic participation, and meeting residents' needs.</dd>
+          <dd>Prioritizing addressing the climate crisis, affordable housing, increasing civic participation, meeting residents' needs, and a grassroots approach to charter change.</dd>
 
           <dt>Principled, open-minded leadership.</dt>
-          <dd>Always factoring in racial justice, representation for all genders, LGBTQIA+ liberation, the need for intersectionality, and reproductive justice.</dd>
+          <dd>Always factoring in racial justice, representation for all genders, LGBTQIA+ liberation, the need for intersectionality, reproductive justice, and support for workers and labor unions.</dd>
 
           <dt>Good governance.</dt>
-          <dd>Ensuring seats at the table for the typically under-represented, meeting the needs of individuals with disabilities or with limited English proficiency, and budgeting that reflects progressive priorities.</dd>
+          <dd>Ensuring seats at the table for the typically under-represented, meeting the needs of individuals with disabilities or with limited English proficiency, budgeting that reflects progressive priorities, and predictable and regularly scheduled operating overrides.</dd>
       </dl>
 
       <p>(For more detail, see <a href="/values" class="usa-link">our values</a>.)</p>
@@ -62,7 +62,7 @@
       </h2>
     </div>
     <div class="tablet:grid-col-8">
-      <p>We ask for your support of our <a href="/endorsements" class="usa-link">endorsed candidates</a> in Brookline's May 3rd Election. Help us create a town government that prioritizes progressive values and policies!</p>
+      <p>Here is a list of <a href="/members" class="usa-link">our members and endorsed elected officials</a>. We are your neighbors, and we welcome you to join us in helping to create a town that prioritizes progressive values and policies!</p>
       <p>Learn about <a href="/get-involved" class="usa-link">how to get involved</a>.</p>
     </div>
   </div>
