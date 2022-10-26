@@ -98,12 +98,6 @@
       <h3>If you're an elected official</h3>
 
       <p>Please note that we will look at previous endorsements (of and by you), past public statements, political contribution history, and voting records. We understand that everyone's politics can evolve, so rather than judge someone according to a single statement or decision, we will consider the totality of information available.</p>
-
-      <h3>Regarding the 15th Norfolk district primary</h3>
-
-      <p>BEC members hold a variety of differing opinions on municipal topics. But to be transparent, with respect to the upcoming State Rep race in the 15th Norfolk district, BEC sees vast differences between the two current candidates that are impossible to ignore.</p>
-      <p>We see <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a> as someone willing to challenge the status quo — and the Massachusetts State House is in dire need of more individuals willing to speak truth to power. (It being one of the <a href="https://actonmass.org/the-campaign/" class="usa-link usa-link--external">least transparent and accountable legislatures in the nation</a>.) In Fernandez, we also see an advocate for climate justice, racial justice, and economic justice; in other words, someone with a comprehensive understanding of inequality.</p>
-      <p>Therefore, we do ask Brookline Equity Coalition members to side with Fernandez in the September 6th State primary election.</p>
     </div>
   </div>
 </section>

@@ -15,9 +15,6 @@
     question: `What is the <a href="https://www.brooklinema.gov/343/Select-Board" class="usa-link usa-link--external">Select Board</a>?`,
     answer: `The town's five-person chief executive body. Each Select Board member is elected by a Town-wide ballot for three year terms. The series is: two seats are up one year; the next year, two different seats are up; the third year, the fifth seat is up; and then the cycle repeats.`
   }, {
-    question: "When are the next elections?",
-    answer: `On Tuesday, September 6th <a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a> — who is running to be the State Representative for the 15th Norfolk district — will be on the ballot. There is an election again on Tuesday, November 8th. And the next municipal election will be in May 2023.`
-  }, {
     question: "Where can I register to vote?",
     answer: `<a href="https://www.sec.state.ma.us/OVR" class="usa-link usa-link--external">Register to vote</a> on the Massachusetts Secretary of State's website.`
   }, {

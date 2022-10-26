@@ -15,6 +15,7 @@
   <p>So, to better inform the public, a number of our members — and BEC as a whole — have written public communications about at least some of these crucial matters. And it is our intention to continue to get out the word about important happenings in (and around) Town politics. Below is a list of those communications:</p>
 
   <ul>
+    <li><a href="https://medium.com/@Brookline_Equity_Coalition/brooklines-important-state-rep-primary-on-sept-6th-b907414f7995" class="usa-link usa-link--external">Brookline's Important State Rep Primary on Sept. 6th</a><br/>Brookline Equity Coalition<br/>August 29th, 2022</li>
     <li><a href="https://medium.com/@Brookline_Equity_Coalition/boston-globe-state-legislature-is-dysfunctional-and-all-of-brookline-s-state-reps-are-1f2687d9e127" class="usa-link usa-link--external">Boston Globe: 'State Legislature is dysfunctional, secretive' — and all of Brookline's State Reps are complicit</a><br/>Brookline Equity Coalition<br/>August 10th, 2022</li>
     <li><a href="https://medium.com/@Brookline_Equity_Coalition/spring-town-meeting-22-recap-914cf926abe4" class="usa-link usa-link--external">Recap of Brookline's Spring 2022 Town Meeting + ways to plug into the fight for reproductive justice.</a><br/>Brookline Equity Coalition<br/>July 9th, 2022</li>
     <li><a href="https://patch.com/massachusetts/brookline/letter-editor-building-blue-fortress-brookline" class="usa-link usa-link--external">Building a Blue Fortress in Brookline</a><br/>Chi Chi Wu<br/>June 30th, 2022</li>

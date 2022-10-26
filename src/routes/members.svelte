@@ -43,9 +43,9 @@
     <li>Abby Erdmann</li>
     <li>Roslyn Feldberg, TMM P10</li>
     <li>Andy Feldman</li>
-    <li>Raul Fernandez, State Rep candidate, 15th Norfolk district</li>
-    <li>Ann Finkel</li>
+    <li>Raul Fernandez</li>
     <li>Lilly Gaehde</li>
+    <li>Nancy Goldner</li>
     <li>Jennifer Goldsmith, TMM P11</li>
     <li>Martha Gray, TMM P11</li>
     <li>Anne Greenwald, TMM P8</li>
@@ -67,6 +67,7 @@
     <li>Ariel Maddocks, TMM P10</li>
     <li>Jonathan Mande</li>
     <li>Sarah Mautner-Mazlen</li>
+    <li>Robert Morris</li>
     <li>Liz Neill</li>
     <li>Amy Newell</li>
     <li>Mariah Nobrega, School Committee Member</li>
