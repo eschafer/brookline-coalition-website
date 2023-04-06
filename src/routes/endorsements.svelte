@@ -8,139 +8,147 @@
 </script>
 
 <section class="usa-section grid-container usa-prose">
-  <h1>Endorsements for <time datetime="2022">2022</time></h1>
+  <h1>Endorsements for <time datetime="2023">2023</time></h1>
 
-  <p>The Brookline Equity Coalition's endorsed candidates. Individuals running for Town Meeting will be on the ballot during the <a href="/annual-town-election" class="usa-link">May 3rd municipal election</a>.
+  <p>The Brookline Equity Coalition's endorsed candidates for the May 2nd municipal election. See the <a href="https://www.brooklinema.gov/137/Elections-Voting" class="usa-link usa-link--external">Town Clerk's Elections & Voting website</a> for more information on how to vote. Learn more about the candidates at <a href="https://www.vote411.org/" class="usa-link usa-link--external">VOTE411</a> from the League of Women Voters.
   </p>
 
+  <h2>Select Board</h2>
+  <ul>
+    <li><a href="https://www.arden4brookline.com/" class="usa-link usa-link--external">Arden Reamer</a></li>
+  </ul>
+
+  <h2>School Committee</h2>
+  <ul>
+    <li>Mariah Nobrega</li>
+    <li><a href="https://www.votenatalialinos.com/" class="usa-link usa-link--external">Natalia Linos (1 year)</a></li>
+  </ul>
+
+  <h2>Housing Authority</h2>
+  <ul>
+    <li><a href="https://www.kimberley4brookline.com/" class="usa-link usa-link--external">Kimberley Richardson</a></li>
+  </ul>
+
+  <h2>Ballot Questions</h2>
+  <ul>
+    <li>YES on Question 1 (Pierce Debt Exclusion)</li>
+    <li>YES on Question 2A (Operating Override)</li>
+    <li>YES on Question 2B (Composting Program)</li>
+  </ul>
+
+  <h2>Town Meeting Endorsements</h2>
   <div class="grid-container">
     <div class="grid-row grid-gap-lg">
       <div class="tablet:grid-col">
-        <h2>Precinct 1 Town Meeting Members</h2>
+        <h3>Precinct 1</h3>
         <ul>
-          <li>Deborah Brown</li>
-          <li>Johnathon Card</li>
-          <li><a href="https://bec-tmm.org/david-walker/" class="usa-link usa-link--external">David Walker</a></li>
-          <li><a href="https://bec-tmm.org/rachel-watson/" class="usa-link usa-link--external">Rachel Watson</a></li>
+          <li>Bettina Neuefeind</li>
+          <li>Regina Healy</li>
         </ul>
 
-        <h2>Precinct 2 Town Meeting Members</h2>
+        <h3>Precinct 2</h3>
         <ul>
-          <li>Chanda Jones</li>
-          <li><a href="https://bec-tmm.org/kimberley-richardson/" class="usa-link usa-link--external">Kimberley Richardson</a></li>
-          <li><a href="https://bec-tmm.org/carlos-mario-tamayo/" class="usa-link usa-link--external">Carlos Mario Tamayo</a></li>
+          <li>Markus Penzel</li>
+          <li>Carlos Mario Tamayo</li>
+          <li>Robert M. Miller</li>
         </ul>
 
-        <h2>Precinct 3 Town Meeting Members</h2>
+        <h3>Precinct 3</h3>
         <ul>
           <li>Jeffrey Benson</li>
-          <li>Mariah Nobrega</li>
-          <li>Nate Tucker</li>
+          <li>Sean Leckey</li>
         </ul>
 
-        <h2>Precinct 4 Town Meeting Members</h2>
+        <h3>Precinct 4</h3>
         <ul>
           <li><a href="https://brooklinep4bipoctmcandidates.info/candidates.html" class="usa-link usa-link--external">Wendy MacMillan</a></li>
         </ul>
 
-        <h2>Precinct 5 Town Meeting Members</h2>
+        <h3>Precinct 5</h3>
         <ul>
-          <li><a href="https://bec-tmm.org/bonnie-bastien/" class="usa-link usa-link--external">Bonnie Bastien</a></li>
-          <li><a href="https://bec-tmm.org/omar-s-mabrouk/" class="usa-link usa-link--external">Omar Mabrouk</a></li>
+          <li>Bonnie Bastien</li>
+          <li>Anthony Flint</li>
+          <li>Carlos Rios</li>
+          <li>Wendy Stahl</li>
         </ul>
 
-        <h2>Precinct 6 Town Meeting Members</h2>
+        <h3>Precinct 6</h3>
         <ul>
-          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/ryan-black" class="usa-link usa-link--external">Ryan D Black</a></li>
-          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/laura-bradford" class="usa-link usa-link--external">Laura Bradford</a></li>
-          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/arthur-conquest" class="usa-link usa-link--external">Arthur Wellington Conquest, III</a></li>
-          <li>Malcolm C. Doldron</li>
-          <li><a href="https://www.brooklinep6.com/town-meeting-candidates/natalia-linos" class="usa-link usa-link--external">Natalia Linos</a></li>
           <li><a href="http://bit.ly/vogt4brookline" class="usa-link usa-link--external">Marissa Vogt</a></li>
+          <li>Catherine Anderson</li>
+          <li>Bitsy Pearlman</li>
         </ul>
 
-        <h2>Precinct 7 Town Meeting Members</h2>
+        <h3>Precinct 7</h3>
         <ul>
-          <li><a href="https://bec-tmm.org/chi-chi-wu/" class="usa-link usa-link--external">Chi Chi Wu</a></li>
-          <li><a href="https://bec-tmm.org/colin-stokes/" class="usa-link usa-link--external">Colin Stokes</a></li>
-          <li>Simon Grossman</li>
+          <li>Amy Isikoff Newell</li>
+          <li>Patricia Maher</li>
+          <li>Max Newell</li>
+          <li>Jessica Stokes</li>
+          <li>Ryan Black (1 year)</li>
         </ul>
 
-        <h2>Precinct 8 Town Meeting Members</h2>
+        <h3>Precinct 8</h3>
         <ul>
-          <li>Anne Greenwald</li>
-          <li>Christina Marie Kovach</li>
-          <li><a href="https://bec-tmm.org/alexander-lebovitz/" class="usa-link usa-link--external">Alexander Lebovitz</a></li>
-          <li><a href="https://bec-tmm.org/sam-cournoyer/" class="usa-link usa-link--external">Sam Cournoyer</a></li>
-          <li><a href="https://bec-tmm.org/tyler-daddio/" class="usa-link usa-link--external">Tyler Daddio</a></li>
+          <li>Alexander Lebovitz</li>
+          <li>Eric Stone</li>
         </ul>
 
       </div>
       <div class="tablet:grid-col">
 
-        <h2>Precinct 9 Town Meeting Members</h2>
+        <h3>Precinct 9</h3>
         <ul>
           <li><a href="https://townmeeting.acrossb.com/" class="usa-link usa-link--external">Lee Biernbaum</a></li>
-          <li><a href="http://bit.ly/ashleyforbrookline" class="usa-link usa-link--external">Ashley Eng</a></li>
           <li><a href="https://mattiforbrookline.org/" class="usa-link usa-link--external">Matti Klock</a></li>
-          <li>Robert D. Lepson</li>
-          <li>Damon Graff</li>
+          <li>Timothy Rodriguez</li>
         </ul>
 
-        <h2>Precinct 10 Town Meeting Members</h2>
+        <h3>Precinct 10</h3>
         <ul>
           <li>Suzette Abbott</li>
-          <li><a href="https://cscott.net/" class="usa-link usa-link--external">C. Scott Ananian</a></li>
-          <li><a href="https://docs.google.com/document/d/1BvHVX6NGSHd5l9vo9YExAX6B9V5v5m9ji28zLVB0SCw/edit?usp=sharing" class="usa-link usa-link--external">John L. Bowman</a></li>
-          <li>Roslyn L. Feldberg</li>
-          <li>David B Klafter</li>
-          <li>Ariel C. Maddocks</li>
-          <li><a href="https://www.naomiforbrookline.org/" class="usa-link usa-link--external">Naomi Sweitzer</a></li>
           <li>Kimberly Loscalzo</li>
+          <li>Ariel C. Maddocks</li>
+          <li>Nicole Stephens</li>
+          <li>Karin Weaver</li>
         </ul>
 
-        <h2>Precinct 11 Town Meeting Members</h2>
+        <h3>Precinct 11</h3>
         <ul>
-          <li>Shanna T. Giora-Gorfajn</li>
-          <li>Jennifer Goldsmith</li>
-          <li>Martha E. Gray</li>
-          <li><a href="https://bec-tmm.org/zsuzsanna-kaldy/" class="usa-link usa-link--external">Zsuzsanna Kaldy</a></li>
-          <li>Lisa Shatz</li>
-          <li><a href="https://bec-tmm.org/anne-weaver/" class="usa-link usa-link--external">Anne Weaver</a></li>
+          <li>Martha Gray</li>
+          <li>John Hillard</li>
         </ul>
 
-        <h2>Precinct 12 Town Meeting Members</h2>
+        <h3>Precinct 12</h3>
         <ul>
+          <li>Jonathan Abbet</li>
+          <li>Michael A. Burstein</li>
           <li>Michael Kushner</li>
+          <li>Irving Kurki</li>
         </ul>
 
-        <h2>Precinct 13 Town Meeting Members</h2>
+        <h3>Precinct 13</h3>
         <ul>
-          <li>Ada Tadmor</li>
-          <li><a href="https://bec-tmm.org/joseph-chafins/" class="usa-link usa-link--external">Joseph Chafins</a></li>
           <li><a href="https://www.facebook.com/mikebestforTMM/" class="usa-link usa-link--external">Michael Best</a></li>
-          <li><a href="https://bec-tmm.org/kevin-mackenzie/" class="usa-link usa-link--external">Kevin Mackenzie</a></li>
+          <li>Kevin T. Mackenzie (1 year)</li>
         </ul>
 
-        <h2>Precinct 15 Town Meeting Members</h2>
+        <h3>Precinct 15</h3>
         <ul>
-          <li>Cornelia H. J. van der Ziel</li>
+          <li>Cornelia van der Ziel</li>
         </ul>
 
-        <h2>Precinct 17 Town Meeting Members</h2>
+        <h3>Precinct 17</h3>
         <ul>
+          <li>Anthony Buono</li>
+          <li>Jonathan Klein</li>
+          <li>Christopher Mutty</li>
           <li><a href="https://www.elizabethforbrookline.com/" class="usa-link usa-link--external">Elizabeth Schafer</a></li>
         </ul>
       </div>
     </div>
   </div>
 
-  <h2>State Representative, 15th Norfolk district [election September 6th]</h2>
-  <ul>
-    <li><a href="https://www.raulforrep.com/" class="usa-link usa-link--external">Raul Fernandez</a></li>
-  </ul>
-
-  Running for Town Meeting and interested in getting endorsed by us? Check out our <a href="/get-involved" class="usa-link">Get Involved</a> page.
 </section>
 
 <style>

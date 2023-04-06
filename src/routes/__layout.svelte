@@ -24,8 +24,8 @@
           label: "Values",
         },
         {
-          href: "/members",
-          label: "Members",
+          href: "/endorsements",
+          label: "Endorsements",
         },
         {
           href: "/news",
@@ -52,8 +52,8 @@
           label: "Values",
         },
         {
-          href: "/members",
-          label: "Members",
+          href: "/endorsements",
+          label: "Endorsements",
         },
         {
           href: "/news",
