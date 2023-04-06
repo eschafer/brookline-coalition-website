@@ -106,11 +106,11 @@
 
         <h3>Precinct 10</h3>
         <ul>
-          <li>Suzette Abbott</li>
-          <li>Kimberly Loscalzo</li>
-          <li>Ariel C. Maddocks</li>
-          <li>Nicole Stephens</li>
-          <li>Karin Weaver</li>
+          <li><a href="https://www.brooklinep10.com/" class="usa-link usa-link--external">Suzette Abbott</a></li>
+          <li><a href="https://www.brooklinep10.com/" class="usa-link usa-link--external">Kimberly Loscalzo</a></li>
+          <li><a href="https://www.brooklinep10.com/" class="usa-link usa-link--external">Ariel C. Maddocks</a></li>
+          <li><a href="https://www.brooklinep10.com/" class="usa-link usa-link--external">Nicole Stephens</a></li>
+          <li><a href="https://www.brooklinep10.com/" class="usa-link usa-link--external">Karin Weaver</a></li>
         </ul>
 
         <h3>Precinct 11</h3>
